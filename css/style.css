@@ -11,7 +11,6 @@ ul {
 img {
   display: block;
   max-width: 100%;
-  cursor: pointer;
 }
 
 .slide-wrapper {
@@ -86,6 +85,7 @@ img {
   margin: 2px;
   box-shadow: 0 2px 2px rgba(0,0,0,0.5);
   transition: .3s;
+  cursor: pointer;
 }
 
 .custom-controls li.active {
